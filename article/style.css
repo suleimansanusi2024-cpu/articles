@@ -1,0 +1,14 @@
+body {
+    background-color: white
+    border radius 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #252525;
+    line-height: 1.8;
+} 
+/*Main article container*/
+.article {
+    max-width: 850px;
+    margin: 50px auto;
+    padding: 40px;
+    background-color: white;
+}
